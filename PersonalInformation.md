@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gabriel Castro.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Java, HTML5, CSS3, JavaScript.
-- 💞️ I’m looking to collaborate with codes of development learned.
+- 🌱 I’m currently learning JavScript, HTML, CSS, C# and .NET.
 - 📫 How to reach me gabrielcdc13@gmail.com
 - I'm a Software Engineering student at UFG.
 
