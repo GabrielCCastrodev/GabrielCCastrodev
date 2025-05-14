@@ -120,7 +120,7 @@ I've completed dozens of professional courses on platforms like **Alura** and **
 
 </details>
 
-> 📩 If you wish to request or verify a specific certificate, feel free to contact me via [email](mailto:gabrielcdc13@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielccastrodev/). I’ll be happy to provide the documentation upon request.
+> 📩 If you wish to request or verify a specific certificate, feel free to contact me via [email](mailto:gabrielcdc13@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielcdcastro/). I’ll be happy to provide the documentation upon request.
 
 ---
 
@@ -140,8 +140,7 @@ I've completed dozens of professional courses on platforms like **Alura** and **
 
 <p align="center">
   <a href="mailto:gabrielcdc13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabrielccastrodev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://gabrielccastrodev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabrielcdcastro/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
