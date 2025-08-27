@@ -151,7 +151,6 @@ I've completed dozens of professional courses on platforms like **Alura** and **
 |--------|-------------|------|
 | [**Algoritmo de Tarjan**](https://github.com/GabrielCCastrodev/Algoritmo_de_Tarjan) | Tarjan’s Algorithm implementation | `JavaScript` |
 | [**PhytoFlow Hardware**](https://github.com/GabrielCCastrodev/PhytoFlow-hardware) | Microcontroller code for sensing system | `C++`, `Hardware` |
-| [**BlockChainVotingSystem**](https://github.com/GabrielCCastrodev/software-concorrente-distribuido/aristoteles) | Distributed system prototype | `Javascript`, `.NET`, `HTML/CSS` |
 
 > 💼 I have also worked to projects within organizations, showcasing collaborative development efforts.
 
