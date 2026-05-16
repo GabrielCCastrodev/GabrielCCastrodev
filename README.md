@@ -14,7 +14,7 @@
 
 - 🎓 I'm a fullstack developer with experience in C#, .NET, JavaScript, HTML, CSS, and SQL.
 - 💡 I enjoy solving complex problems and building efficient and elegant software solutions.
-- 🌐 Currently exploring **Ubiquitous Computing and AI**.
+- 🌐 Currently exploring **IoT**.
 - ✨ I believe in writing clean, maintainable code and constantly learning new things.
 - 💼 Currently working as a Fullstack Developer at **LG - Lugar de Gente**.
 
