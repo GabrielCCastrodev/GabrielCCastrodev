@@ -2,13 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gabriel+Castro;Olá%2C+sou+Gabriel+Castro;안녕하세요%2C+가브리엘+카스트로입니다" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">Fullstack Developer | .NET • JavaScript • SQL • HTML/CSS</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
----
+<h2 align="center">Software Engineer | IoT • .NET • JavaScript • SQL</h2>
 
 ## 🔍 About Me
 
@@ -31,17 +25,13 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-00A4EF?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -124,14 +114,6 @@ I've completed dozens of professional courses on platforms like **Alura** and **
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=GabrielCCastrodev&theme=dracula&margin-w=15&no-frame=true" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -148,7 +130,7 @@ I've completed dozens of professional courses on platforms like **Alura** and **
 | [**Algoritmo de Tarjan**](https://github.com/GabrielCCastrodev/Algoritmo_de_Tarjan) | Tarjan’s Algorithm implementation | `JavaScript` |
 | [**PhytoFlow Hardware**](https://github.com/GabrielCCastrodev/PhytoFlow-hardware) | Microcontroller code for sensing system | `C++`, `Hardware` |
 
-> 💼 I have also worked to projects within organizations, showcasing collaborative development efforts.
+> 💼 I have also worked on projects within organizations, showcasing collaborative development efforts.
 
 ---
 
